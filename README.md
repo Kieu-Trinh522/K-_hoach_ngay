@@ -11,4 +11,4 @@ Khó khắn:
 Những việc sẽ làm sắp tới:
 -Làm trang chủ blog
 -Đăng được bài viết trong web blog
--H
+-Tiếp tục làm mindmap mod
