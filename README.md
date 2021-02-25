@@ -12,3 +12,16 @@ Những việc sẽ làm sắp tới:
 -Làm trang chủ blog
 -Đăng được bài viết trong web blog
 -Tiếp tục làm mindmap mod
+
+
+25/02/2002
+Những việc đã làm được trong ngày:
+-Làm trang chủ blog
+-Đăng được bài viết trong web blog
+-Tiếp tục làm mindmap mod
+Khó khắn:
+Không có
+Những việc sẽ làm sắp tới:
+-Làm trang đăng ký, đăng nhập
+-Làm mindmap module 3
+-Tập ph
