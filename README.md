@@ -25,3 +25,24 @@ Những việc sẽ làm sắp tới:
 -Làm trang đăng ký, đăng nhập
 -Làm mindmap module 3
 
+
+
+26/02/2002
+
+Những việc đã làm được trong ngày:
+
+-Làm trang đăng ký, đăng nhập
+
+-Làm mindmap module 3
+
+Khó khắn:
+
+Không có
+
+Những việc sẽ làm sắp tới:
+
+-Làm chức năng sửa  và xóa bài viết 
+
+-Làm chức năng hiển thị chi tiết bài viết.
+
+-L
