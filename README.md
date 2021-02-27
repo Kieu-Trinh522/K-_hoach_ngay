@@ -45,4 +45,6 @@ Những việc sẽ làm sắp tới:
 
 -Làm chức năng hiển thị chi tiết bài viết.
 
--L
+-Làm mindmap module 3
+
+
